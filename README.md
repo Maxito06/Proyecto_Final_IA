@@ -1,6 +1,7 @@
 ## PAWSITIVE-EMOTIONS
 
-![Banner Proyecto IA](https://github.com/Maxito06/Proyecto_Final_IA/assets/117324114/7439d90f-a8ca-45a2-9d4e-8cbf3b996766)
+![Banner Proyecto IA (1)](https://github.com/Maxito06/Proyecto_Final_IA/assets/117324114/cb5162f3-e75f-452e-92f2-1fa87253a2d7)
+
 
 
 
