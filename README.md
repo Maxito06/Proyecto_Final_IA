@@ -20,4 +20,3 @@ Dataset: https://www.kaggle.com/datasets/devzohaib/dog-emotions-prediction?resou
 
 Vídeo: https://youtu.be/7SRtH-xQv7o
 
-Código: Código_Entrega_Final.ipynb 
