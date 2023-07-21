@@ -18,4 +18,4 @@ Modelos: GaussianNB, DecisionTreeClassifier, RandomForestClassifier, SVC
 
 Dataset: https://www.kaggle.com/datasets/devzohaib/dog-emotions-prediction?resource=download
 
-Vídeo: 
+Vídeo: https://youtu.be/7SRtH-xQv7o
