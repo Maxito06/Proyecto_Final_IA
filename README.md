@@ -1,5 +1,6 @@
 ## PAWSITIVE-EMOTIONS
-![Banner Proyecto IA](https://github.com/Maxito06/Proyecto_Final_IA/assets/117324114/a0bdabe8-ba05-43fb-9c60-2a49f12b722d)
+
+![Banner Proyecto IA (1)](https://github.com/Maxito06/Proyecto_Final_IA/assets/117324114/e0f69379-4c17-4ff5-b8fd-468b221e729a)
 
 
 Integrantes: Juan Camilo mantilla - 2202050, ALFREDO gutIerrez nieto - 2200137, Maximiliano Correa Pico - 2161594
