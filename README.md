@@ -17,3 +17,5 @@ Dataset: Utilizamos un datset llamado "Dog Emotions Prediction", el cual se encu
 Modelos: GaussianNB, DecisionTreeClassifier, RandomForestClassifier, SVC
 
 Dataset: https://www.kaggle.com/datasets/devzohaib/dog-emotions-prediction?resource=download
+
+Vídeo: 
